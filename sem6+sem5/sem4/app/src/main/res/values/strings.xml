@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sem4_dam</string>
+    <string name="adauga_o_noua_tastatura">Adauga o noua tastatura</string>
+    <string name="lista">Lista</string>
+    <string-array name="valori">
+        <item>FULL_SIZED</item>
+        <item>COMPACT</item>
+        <item>TKL</item>
+    </string-array>
+</resources>
