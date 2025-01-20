@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_Stoica_Robert</string>
+    <string name="adauga_o_husa_noua_de_telefon">Adauga o husa noua de telefon</string>
+    <string name="smartphone">Smartphone?</string>
+    <string name="salveaza_o_husa_noua">Salveaza o husa noua</string>
+    <string name="lungime">lungime</string>
+    <string name="material">material</string>
+    <string name="vizualizare_lista_huse_telefon">Vizualizare lista huse telefon</string>
+</resources>
