@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "126663286727",
+    "firebase_url": "https://my-application-f36ac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-application-f36ac",
+    "storage_bucket": "my-application-f36ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126663286727:android:1e10c8e526ce9eff9443e2",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB113SULysyubhbammLqCGIVfzr4mk1Ys4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126663286727:android:3c48d8adbdf18bd69443e2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB113SULysyubhbammLqCGIVfzr4mk1Ys4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
